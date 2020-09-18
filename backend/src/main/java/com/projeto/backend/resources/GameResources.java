@@ -23,5 +23,4 @@ public class GameResources {
 		List<GameDTO> list = service.findAll();
 		return ResponseEntity.ok().body(list);
 	}
-
 }
