@@ -13,7 +13,7 @@ import com.projeto.backend.services.GameService;
 
 @RestController
 @RequestMapping(value = "/games")
-public class GameResources {
+public class GameResource {
 
 	@Autowired
 	private GameService service;
