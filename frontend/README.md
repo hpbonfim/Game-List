@@ -1,1 +1,1 @@
-projetosds.netlify.app
+https://projetosds.netlify.app
